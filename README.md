@@ -1,5 +1,5 @@
 # Invoice-Extraction-Bot
-Extracts information from invoice documents using Azure OpenAI
+## Extracts information from invoice documents using Azure OpenAI
 Frontend was developed using Streamlit.
 
 Steps to execute:
